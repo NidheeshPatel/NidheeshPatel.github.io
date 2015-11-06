@@ -1,10 +1,10 @@
 body {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .navbar-inverse .navbar-brand {
   font-family: 'Slabo 27px', serif;
   font-size: 36px;
-  color: #ff3061;
+  color: orange;
   padding-top: 20px;
 }
 h1.title {
