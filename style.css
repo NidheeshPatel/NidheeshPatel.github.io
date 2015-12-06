@@ -35,3 +35,7 @@ h4 {
 .fa fa-star
 {
 }
+
+.thumbnail > img { 
+  height: 100px;
+}
